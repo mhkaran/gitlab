@@ -1,0 +1,1 @@
+This is file3.txt created from vs code again!
